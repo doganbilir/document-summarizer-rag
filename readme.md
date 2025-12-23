@@ -13,7 +13,7 @@ The training procedure was executed on a Colab T4 GPU. It involved training for 
 ![HF Transformers](https://img.shields.io/badge/Hugging%20Face-Transformers-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
-![Demo](img/picture1.png)
+![Demo](img/Picture1.png)
 
 
 Technologies Used and Optimizations:
@@ -49,7 +49,7 @@ Success and Results
 
 Metrics
 
-![Metrics](img/picture2.png)
+![Metrics](img/Picture2.png)
 
 
  Initial low Loss values were successfully overcome through data subsetting and Learning Rate optimization. The model has successfully internalized the challenging Abstractive Summarization task. Also summarization skills of model improved and received better outputs.
